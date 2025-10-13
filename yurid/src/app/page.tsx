@@ -27,7 +27,7 @@ export default function Home() {
       {/* Mission section */}
       <motion.section
         style={{ opacity: missionOpacity, y: missionY }}
-        className="h-screen flex flex-col items-center justify-center text-center"
+        className="h-screen flex flex-col items-center justify-center text-center mission"
       >
         <div
           className="text-left leading-relaxed text-gray-300"
@@ -37,13 +37,13 @@ export default function Home() {
             marginLeft: "25%",
             marginRight: "25%",
             maxWidth: "90vw", // keeps it readable
-            fontSize: 30
+            fontSize: 30,
           }}
         >
           <p>
-            <em>YURID</em> is a pluralistic marketplace of ideas. It draws thickly on traditional Jewish voices 
+            <em>YURID</em> is a pluralistic marketplace of ideas. It draws thickly on traditional Jewish voices
             as well as contemporary frameworld to dream a Jewish future which is deeply relevent in a modern world
-            but also retaining a tradtional core. <em>YURID</em> is the space for college students to formulate the 
+            but also retaining a tradtional core. <em>YURID</em> is the space for college students to formulate the
             tennents of the Jewish world they want to live in: arguing, holding tension, finding points of release, and
             new frameworks for thinking about the fundemental issues of the Jewish people.
           </p>
@@ -53,5 +53,3 @@ export default function Home() {
     </main>
   );
 }
-
-

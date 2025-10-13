@@ -7,11 +7,21 @@
 body {
   background-color: white !important;
   color: rgb(0, 0, 0) !important;
+  outline: 6px solid rgb(165, 28, 48);
+  outline-offset: -20px;
 }
 
 /* Custom class for YURID title */
 .title {
+  outline: 1px solid rgb(0, 0, 0);
+  outline-offset: 30px;
   color: rgb(165, 28, 48) !important;
+}
+
+.mission {
+  outline: 1px solid rgb(0, 0, 0);
+  outline-offset: -60px;
+  color: rgb(0, 0, 0) !important;
 }
 
 /* Fade-in animation */
