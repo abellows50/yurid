@@ -6,7 +6,7 @@ import { motion, useScroll, useTransform } from "framer-motion";
 export default function Home() {
   const { scrollYProgress } = useScroll();
 
-  // As you scroll, YURID moves up and fades
+  // As you scroll, YERID moves up and fades
   const y = useTransform(scrollYProgress, [0, 0.3], ["0%", "-100%"]);
   const opacity = useTransform(scrollYProgress, [0, 0.2], [1, 0]);
 
@@ -16,12 +16,14 @@ export default function Home() {
 
   return (
     <main className="h-[200vh] bg-white overflow-hidden">
-      {/* YURID */}
+      {/* YERID */}
       <motion.div
         style={{ y, opacity }}
         className="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
       >
-  <h1 className="title text-[12rem] font-light tracking-[0.0em] flex items-center justify-center bg-white" >YURID</h1>
+  <h1 className="title text-[12rem] font-light tracking-[0.0em] flex items-center justify-center bg-white" >
+    <h1 className="text-[5rem]">the</h1>YARID
+    </h1>
       </motion.div>
 
       {/* Mission section */}
