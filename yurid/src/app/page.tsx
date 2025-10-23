@@ -21,8 +21,8 @@ export default function Home() {
         style={{ y, opacity }}
         className="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
       >
-  <h1 className="title text-[12rem] font-light tracking-[0.0em] flex items-center justify-center bg-white" >
-    <h1 className="text-[5rem]">the</h1>YARID
+  <h1 className="title text-[12vw] font-light tracking-[0.0em] flex items-center justify-center bg-white" >
+    <p className="text-[5vw]">the</p>YARID
     </h1>
       </motion.div>
 
@@ -39,7 +39,7 @@ export default function Home() {
             marginLeft: "25%",
             marginRight: "25%",
             maxWidth: "90vw", // keeps it readable
-            fontSize: 30,
+            fontSize: "2.5vw",
           }}
         >
           <p>
