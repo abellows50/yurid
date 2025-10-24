@@ -8,8 +8,9 @@ const cinzel = Cinzel({
 });
 
 export const metadata = {
-  title: "YERID",
-  description: "A journal of Jewish thought and reflection.",
+  title: "YARID",
+  description: "A gathering of Jewish culture.",
+  keywords: "Harvard, jewish culture",
 };
 
 // ...existing code...

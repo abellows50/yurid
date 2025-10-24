@@ -7,8 +7,8 @@
 body {
   background-color: white !important;
   color: rgb(0, 0, 0) !important;
-  outline: 6px solid rgb(165, 28, 48);
-  outline-offset: -20px;
+  outline: 0.5vw solid rgb(165, 28, 48);
+  outline-offset: -1vw;
 }
 
 /* Custom class for YERID title */

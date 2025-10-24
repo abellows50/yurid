@@ -39,13 +39,13 @@ export default function Home() {
             marginLeft: "25%",
             marginRight: "25%",
             maxWidth: "90vw", // keeps it readable
-            fontSize: "2.5vw",
+            fontSize: "30px",
           }}
         >
           <p>
-            <em>YURID</em> is a pluralistic marketplace of ideas. It draws thickly on traditional Jewish voices
+            <em>theYARID</em> is a pluralistic marketplace of ideas. It draws thickly on traditional Jewish voices
             as well as contemporary frameworld to dream a Jewish future which is deeply relevent in a modern world
-            but also retaining a tradtional core. <em>YURID</em> is the space for college students to formulate the
+            but also retaining a tradtional core. <em>theYARID</em> is the space for college students to formulate the
             tennents of the Jewish world they want to live in: arguing, holding tension, finding points of release, and
             new frameworks for thinking about the fundemental issues of the Jewish people.
           </p>
