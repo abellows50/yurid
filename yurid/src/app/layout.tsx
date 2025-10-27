@@ -8,9 +8,9 @@ const cinzel = Cinzel({
 });
 
 export const metadata = {
-  title: "YARID",
-  description: "A gathering of Jewish culture.",
-  keywords: "Harvard, jewish culture, pluralism, the yarid, yarid, yerid, yarid at harvard",
+  title: "the YARID",
+  description: "the YARID is a collegiate gathering of Jewish culture in journal form.",
+  keywords: "Harvard Hillel, Center for Jewish Studies, Harvard, Jewish culture, pluralism, the YARID, YARID, yerid, YARID at harvard, Harvard Yarid, Jewish journal, journal, student journal, college journal, Jewish thought, Jewish future, Jewish ideas",
 };
 
 // ...existing code...
