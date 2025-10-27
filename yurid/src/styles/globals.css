@@ -11,6 +11,22 @@ body {
   outline-offset: -1vw;
 }
 
+button {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(165, 28, 48);
+  color: inherit;
+  font: inherit;
+  padding: 30px 60px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  font-weight: bold;
+  font-size: 2vw;
+
+}
+
 /* Custom class for YERID title */
 .title {
   /* outline: 1px solid rgb(0, 0, 0); */

@@ -10,7 +10,7 @@ const cinzel = Cinzel({
 export const metadata = {
   title: "YARID",
   description: "A gathering of Jewish culture.",
-  keywords: "Harvard, jewish culture",
+  keywords: "Harvard, jewish culture, pluralism, the yarid, yarid, yerid, yarid at harvard",
 };
 
 // ...existing code...
