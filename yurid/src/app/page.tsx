@@ -7,12 +7,12 @@ export default function Home() {
   const { scrollYProgress } = useScroll();
 
   // As you scroll, YERID moves up and fades
-  const y = useTransform(scrollYProgress, [0, 0.3], ["0%", "-100%"]);
+  const y = useTransform(scrollYProgress, [0, 0.3], ["0vh", "-75vh"]);
   const opacity = useTransform(scrollYProgress, [0, 0.2], [1, 0]);
 
   // Mission fades in after
   const missionOpacity = useTransform(scrollYProgress, [0.05, 0.3], [0, 1]);
-  const missionY = useTransform(scrollYProgress, [0.05, 0.3], ["50%", "0%"]);
+  const missionY = useTransform(scrollYProgress, [0.05, 0.3], ["50vh", "0vh"]);
 
   return (
     <main className="h-[200vh] bg-white overflow-hidden">
@@ -39,6 +39,7 @@ export default function Home() {
             marginLeft: "25%",
             marginRight: "25%",
             maxWidth: "90vw", // keeps it readable
+            maxHeight: "70vh",
             fontSize: "30px",
           }}
         >
