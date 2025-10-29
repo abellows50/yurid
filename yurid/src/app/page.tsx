@@ -46,18 +46,9 @@ export default function Home() {
           }}
         >
           <p>
-            The YARID is a student-run journal for exploring the future of Jewish culture and thought.
-            Based at Harvard and open to college writers everywhere, it gathers new voices shaping Jewish life today.
-            <br />
-            <br />
-            The word YARID means fair or gathering: a meeting place where people came to trade, haggle,
-            and exchange ideas. In that spirit, The YARID is a modern fair of Jewish thought: a space for debate,
-            imagination, and discovery about what Jewish life can become.
-            <br />
-            <br />
-            We publish college voices asking what comes next for Jewish culture—how tradition adapts, where it resists,
-            and what new forms it can take. Our aim is simple: dialogue over dogma, questions over answers, and writing
-            that’s as daring as it is thoughtful.
+            The YARID [theyarid.org] explores the future of Jewish culture and thought through curating and publishing collegiate voices. The word “yarid” means market or gathering; it is the meeting place at the foundation of trading, haggling, arguing, innovating, and exchanging ideas. Collecting a wide range of perspectives, identities, and ideologies, from the Harvard community and from other universities, The YARID is a forum for serious intellectual exchange and imagination. Representing college students in the ongoing effort to form, question, and engage with Jewish culture in a changing world, it aspires to embody the surprising discoveries that come from placing differing viewpoints in close proximity. 
+            <br/><br/>
+            The YARID, at its best, values dialogue over dogma, questions over answers, and writing that’s as daring as it is thoughtful.
           </p>
         </div>
       </motion.section>
