@@ -46,9 +46,9 @@ export default function Home() {
           }}
         >
           <p>
-            The YARID [theyarid.org] explores the future of Jewish culture and thought through curating and publishing collegiate voices. The word “yarid” means market or gathering; it is the meeting place at the foundation of trading, haggling, arguing, innovating, and exchanging ideas. Collecting a wide range of perspectives, identities, and ideologies, from the Harvard community and from other universities, The YARID is a forum for serious intellectual exchange and imagination. Representing college students in the ongoing effort to form, question, and engage with Jewish culture in a changing world, it aspires to embody the surprising discoveries that come from placing differing viewpoints in close proximity. 
+            <em>The YARID</em> explores the future of Jewish culture and thought through curating and publishing collegiate voices. The word “yarid” means market or gathering; it is the meeting place at the foundation of trading, haggling, arguing, innovating, and exchanging ideas. Collecting a wide range of perspectives, identities, and ideologies, from the Harvard community and from other universities, <em>The YARID</em> is a forum for serious intellectual exchange and imagination. Representing college students in the ongoing effort to form, question, and engage with Jewish culture in a changing world, it aspires to embody the surprising discoveries that come from placing differing viewpoints in close proximity. 
             <br/><br/>
-            The YARID, at its best, values dialogue over dogma, questions over answers, and writing that’s as daring as it is thoughtful.
+            <em>The YARID</em>, at its best, values dialogue over dogma, questions over answers, and writing that’s as daring as it is thoughtful.
           </p>
         </div>
       </motion.section>
@@ -58,12 +58,12 @@ export default function Home() {
         style={{ opacity: buttonOpacity, y: buttonY }}
         className="h-[60vh] flex items-start justify-center"
       >
-        <button
+        {/*<button
           className="button mt-10 px-8 py-3 text-lg rounded-full border border-black hover:bg-black hover:text-white transition-colors"
           onClick={() => window.open("https://harvard.pdx1.qualtrics.com/jfe/preview/previewId/9132c010-eee3-4ad0-b9ee-5315ae7b989d/SV_1X5Q8YgwVyHGCeG?Q_CHL=preview&Q_SurveyVersionID=current", "_blank")}
-        >
+        >*
           APPLY HERE
-        </button>
+        </button>*/}
       </motion.div>
     </main>
   );
