@@ -46,10 +46,8 @@ export default function Home() {
           }}
         >
           <p>
-            <em>The YARID</em> explores the future of Jewish culture and thought through curating and publishing collegiate voices. The word “yarid” means market or gathering; it is the meeting place at the foundation of trading, haggling, arguing, innovating, and exchanging ideas. Collecting a wide range of perspectives, identities, and ideologies, from the Harvard community and from other universities, <em>The YARID</em> is a forum for serious intellectual exchange and imagination. Representing college students in the ongoing effort to form, question, and engage with Jewish culture in a changing world, it aspires to embody the surprising discoveries that come from placing differing viewpoints in close proximity. 
-            <br/><br/>
-            <em>The YARID</em>, at its best, values dialogue over dogma, questions over answers, and writing that’s as daring as it is thoughtful.
-          </p>
+            The YARID explores the future of Jewish thought and culture through curating and publishing collegiate voices. The word “yarid” means market or gathering; it is where trading, haggling, arguing, innovating, and exchanging ideas take place. Collecting a wide range of perspectives from Harvard and other universities, The YARID is a forum for serious intellectual and imaginative exchange. Representing college students in the ongoing effort to form, question, and engage with the Jewish tradition in a changing world, The YARID believes that surprising discoveries come from placing differing viewpoints in close proximity. 
+         </p>
         </div>
       </motion.section>
 
